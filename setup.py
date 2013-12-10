@@ -23,7 +23,7 @@ minor_version = int(minor_version)
 
 requires = []
 
-MODULE = 'brands'
+MODULE = 'product_brand'
 PREFIX = 'trytond'
 
 for dep in info.get('depends', []):

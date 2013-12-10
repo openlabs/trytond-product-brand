@@ -12,5 +12,5 @@ from brand import Brand
 def register():
     Pool.register(
         Brand,
-        module='brands', type_='model'
+        module='product_brand', type_='model'
     )

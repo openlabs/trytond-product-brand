@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<form string="Brands" col="6">
+    <label name="name"/>
+    <field name="name"/>
+    <separator name="notes" colspan="6"/>
+    <field name="notes" colspan="6"/>
+</form>
